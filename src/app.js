@@ -124,6 +124,11 @@ class Superwar {
         // Type your code here
 
         // return  'clash' or 'peace';
+
+        if ('clash' == 'clash')
+        return 'clash';
+    else
+        return 'peace';
     }
 
     // Fight
